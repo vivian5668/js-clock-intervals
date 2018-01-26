@@ -5,10 +5,18 @@
 }
 
 #hour {
+	position: absolute;
 }
 
 #minute {
+	position: absolute;
 }
 
 #second {
+	position: absolute;
+}
+
+#face {
+	position: absolute;
+
 }
